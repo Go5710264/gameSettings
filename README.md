@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/vd1vvp8pgiqcw2va?svg=true)](https://ci.appveyor.com/project/Go5710264/sitesettings)
+[![Build status](https://ci.appveyor.com/api/projects/status/v6vpi65upjuemg24?svg=true)](https://ci.appveyor.com/project/Go5710264/gamesettings)
 
 # Установка настроек пользователя в игре
 
@@ -8,3 +8,4 @@
 * `'difficulty': 'easy'` сложность игры 
 
 Реализована смена значений настроек по выбору пользователя
+ 
